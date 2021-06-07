@@ -1,0 +1,2 @@
+# Visual-Studio-Code-PDF.js
+we have to make a user interface where we want to perform an operation. Then we have Swhich we perform touchable operation that’s means if we click on it then some operation is performed on it if we want to put some logic then it is apply on the outside of the user interface(outside of the return statement). For e.g. we have to printPDF then we make a touchable button in the UI and perform operation (logical) outside of the UI.
